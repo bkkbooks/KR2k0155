@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2k0155_001.yaml, hash: 'sha256:9906cece95cea78752282ffe1bcbb133e0f24583541351505f4b24e9b808730e'}
+  - {seq: 1, filename: KR2k0155_001.yaml, hash: 'sha256:46ec859424e10abf8587280776f427b2b59688eb55ecacfaf228480c595fc685'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2k0155_001.markers.yaml, hash: 'sha256:08bea4537b65cd26e9fd06cf2b1ccad2c6667fb0dfa29ca8a1b63a1bccde20f1'}
+  - {seq: 1, role: markers, filename: assets/KR2k0155_001.markers.yaml, hash: 'sha256:2c42711e7b614f6ebdfe562dd3651336dc6c285b758ac0ac98c8b73ae63b028f'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 宋劉澂之永初山川記
   type: section
   level: 1
-hash: sha256:de15a37a878375d8916013892998809778d3281d5ae041ff073ac7296c82f2d0
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:a4b005fba35d5a50d66ccfb8cde11b0be02dc45135cd544526a382bd9324f840
