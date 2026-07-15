@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2k0155/v1
 canonical_location: https://kanripo.org/bkk/KR2k0155/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 宋劉澂之永初山川記一卷
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2k0155_001.yaml, hash: 'sha256:46ec859424e10abf8587280776f427b2b59688eb55ecacfaf228480c595fc685'}
+  - {seq: 1, filename: KR2k0155_001.yaml, hash: 'sha256:9906cece95cea78752282ffe1bcbb133e0f24583541351505f4b24e9b808730e'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2k0155_001.markers.yaml, hash: 'sha256:2c42711e7b614f6ebdfe562dd3651336dc6c285b758ac0ac98c8b73ae63b028f'}
+  - {seq: 1, role: markers, filename: assets/KR2k0155_001.markers.yaml, hash: 'sha256:acca966163dbca6494aa7d2272b4011a53f9e4854fc46d47f80b6aea18737bea'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,7 @@ table_of_contents:
   label: 宋劉澂之永初山川記
   type: section
   level: 1
-hash: sha256:a4b005fba35d5a50d66ccfb8cde11b0be02dc45135cd544526a382bd9324f840
+hash: sha256:0825421403a274185654c059f88e3a60faffa291c894ac9f4631a783853360eb
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
